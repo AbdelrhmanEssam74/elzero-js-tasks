@@ -1,14 +1,14 @@
 //تغيير style عنصر
-//document.querySelector("h1").style.color = "red";
+document.querySelector("h1").style.color = "red";
 //عرض رسالة للمستخدم
-//window.alert("hello my friend");
+window.alert("hello my friend");
 // كتابة عنصر داخل الصفحه
-//document.write("<h1>fuck people</h1>")
+document.write("<h1>fuck people</h1>")
 //directive %c
 //عرض رسالة في قائمة log
-//console.log("loge")
-//console.error("error")
-//console.table(["abdo" , "essam", "roshdy"])
+console.log("loge")
+console.error("error")
+console.table(["abdo" , "essam", "roshdy"])
 //console.log("hello %cmy %cfriend", "color: blue; font-size:30px;", "color: red; font-size:40px;")
 // API= aplecation programming interface
 /* 
@@ -47,6 +47,6 @@ console.log("message two");
 
 console.table(["Elzero", "Ahmed", "Sameh", "Gamal", "Aya"]);
 
-/* console.log("Iam In Console");
-document.write("Iam In Page") */
+//console.log("Iam In Console");
+//document.write("Iam In Page") 
 //https://codepen.io/collection/dbPoMv
