@@ -1,1 +1,1 @@
-# elzero-js-tasks-of-week1
+# elzero-js-tasks
